@@ -1,11 +1,12 @@
-SQL Music Store Analysis
+**SQL Music Store Analysis**
 
-Overview
+**Overview**
 
 This project explores and analyzes an online music store database using SQL. The objective is to uncover valuable insights about sales performance, customer behaviors, music preferences, and business growth opportunities by writing and executing a set of well-crafted SQL queries.
 
 
-Project Objectives
+
+**Project Objectives**
 
 Analyze sales revenue and purchasing patterns.
 
@@ -18,7 +19,8 @@ Uncover trends in artist and album popularity.
 Support business decision-making with data-driven insights.
 
 
-Dataset Structure
+
+**Dataset Structure**
 
 The analysis is based on the standard music store database, which commonly contains the following tables:
 
@@ -33,7 +35,8 @@ Track, Album, Artist: Detailed track metadata, album, and artist info
 Genre: Categories for music classification
 
 
-Key Features & Queries
+
+**Key Features & Queries**
 
 Top spending customers per country
 
@@ -48,6 +51,7 @@ Employee and manager hierarchy
 Track and genre analysis for length, sales, and revenue
 
 
-Technologies Used
+
+**Technologies Used**
 
 SQL (PostgreSQL)
